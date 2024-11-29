@@ -1,0 +1,12 @@
+# Basic
+pandas
+numpy
+# Database
+sqlalchemy
+# Visualization
+plotly
+dash
+dash-bootstrap-components
+
+gunicorn
+
